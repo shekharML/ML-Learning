@@ -1,0 +1,2 @@
+My Name is shekhar
+i am learning python for machine learning 
